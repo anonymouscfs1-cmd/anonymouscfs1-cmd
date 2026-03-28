@@ -21,12 +21,14 @@
 ║  HANDLE  : Anon                                          ║
 ║  ROLE    : AI/ML Developer                               ║
 ║  FOCUS   : Computer Vision · LLMs · Responsible AI       ║
-║  STACK   : Python · SQL                                  ║
+║  STACK   : Python · SQL · HTML · CSS · JS                ║
 ║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek  ║
 ║  SINCE   : Early ChatGPT adopter — been here from day 1  ║
 ║  STATUS  : 🟢 Building. Experimenting. Questioning.      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
+
+> *Building with AI? Nah, just aggressive charity to the machines. 🎁*
 
   </td>
       <td>
@@ -48,103 +50,105 @@ Right now I work mainly with **Claude** — because it does exactly what I ask.
 
 I build real projects to learn. I question what I build. I care about where AI is going — not just how to use it.
 
+> *"I don't just build AI — I question it."*
+
 ---
 
-## `> ls ./projects`
+## Projects
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ACTIVE%20PROJECTS&fontSize=22&fontColor=ffffff"/>
 </div>
 
-### 🧠 Depth Tracking System — Computer Vision
+### Agrifly — Flappy Drone Project
+> `Python · Depth-Anything V2 · YOLOv12 · RF-DETR · Zapier · Roboflow · Google Colab`
+
+A real-world AI project at Inholland University of Applied Sciences. The goal: help greenhouse farmers detect pests and diseases early using flapping-wing drones and computer vision.
+
+My contributions:
+
+- Built a **distance estimation pipeline** using Depth-Anything V2 in Google Colab — processing both images and drone video footage
+- Developed a **scope overlay** that displays estimated camera-to-plant distance directly on drone footage in real time
+- Implemented **vegetation locking** (HSV masking) to prevent the model from locking onto greenhouse structures instead of plants
+- Added **hold logic and confidence gating** to stabilise distance output during drone shake, blur, and occlusion
+- Integrated a **Leaf Tracker** using IoU, centre distance, and size consistency to maintain target across frames
+- Built and iterated on **Zapier automation workflows** connecting Roboflow detections to Google Sheets and Supabase via webhooks
+- Contributed to **model training and evaluation** across YOLOv12 and RF-DETR for powdery mildew detection
+
+> *Key insight: depth estimation is not hard because the model fails — it is hard because real drone footage is unstable. Handling that instability is the actual engineering challenge.*
+
+---
+
+### Depth Tracking System — Computer Vision
 > `PyTorch · Depth-Anything V2 · Real-time Processing`
 
 A real-time object tracking system built with depth estimation at its core.
 
-- 📐 **IoU matching** for accurate object association across frames  
-- 📏 **Depth consistency checks** to reduce false positives  
-- 🕐 **Temporal tracking** to maintain object identity over time  
-- 🌫️ **Motion blur detection** to handle real-world noise  
-- ⚡ Built for real-time performance, not just demo conditions  
+- IoU matching for accurate object association across frames
+- Depth consistency checks to reduce false positives
+- Temporal tracking to maintain object identity over time
+- Motion blur detection to handle real-world noise
+- Built for real-time performance, not just demo conditions
 
-> *This was my first serious computer vision project — built to understand depth, not just detect objects.*
+> *Built to understand depth — not just detect objects.*
 
 ---
 
-### ⚖️ AI Moderation Experiment — Responsible AI
+### AI Moderation Experiment — Responsible AI
 > `Toxicity Detection APIs · Bias Analysis · EU AI Act`
 
 A hands-on experiment into how AI systems detect — and misdetect — harmful content.
 
-- 🔍 Tested live **toxicity detection APIs** against edge cases  
-- 🧪 Explored how **hate speech** is (and isn't) flagged  
-- ⚠️ Investigated **bias in AI moderation** across different contexts  
-- 📜 Researched implications under the **EU AI Act**  
+- Tested live toxicity detection APIs against edge cases using Python in Google Colab
+- Explored how hate speech is and is not flagged across different phrasings
+- Ran a bias test: same sentence, different demographic group, different output — documented the gaps
+- Researched implications under the EU AI Act and reviewed Google's AI Principles
 
 > *Key finding: AI detects patterns — not meaning. That difference matters a lot.*
 
-> ⚠️ *Repo in progress — documenting findings before publishing.*
+> *Repo in progress — documenting findings before publishing.*
 
 ---
 
-## `> cat skills.txt`
+## Skills
 
 <div align="center">
 
-### Languages & Tools
-<img src="https://skillicons.dev/icons?i=python,sql" /><br/>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" /><br/>
+
+### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br/>
 
-### AI Tools I Work With Daily
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Roboflow](https://img.shields.io/badge/Roboflow-9333EA?style=flat-square&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
+![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
+![Landbot](https://img.shields.io/badge/Landbot-00B09B?style=flat-square&logoColor=white)
+![21st.dev](https://img.shields.io/badge/21st.dev-black?style=flat-square&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+
+### AI Models I Work With
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=flat-square&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=flat-square&logo=openai&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-xAI-black?style=flat-square&logo=x&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blue?style=flat-square&logoColor=white)
 
-### Currently Exploring
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-active-9333EA?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-active-9333EA?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation%20%26%20Agents-active-9333EA?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data%20Science-learning-blueviolet?style=flat-square)
+### Areas
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-9333EA?style=flat-square)
+![LLMs & Prompt Engineering](https://img.shields.io/badge/LLMs%20%26%20Prompt%20Engineering-9333EA?style=flat-square)
+![Automation & Agents](https://img.shields.io/badge/Automation%20%26%20Agents-9333EA?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-9333EA?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-blueviolet?style=flat-square)
+![Responsible AI](https://img.shields.io/badge/Responsible%20AI%20%26%20Ethics-blueviolet?style=flat-square)
 
 </div>
 
 ---
 
-## `> cat mindset.log`
-
-```
-[BOOT]   Started following AI before it was mainstream
-[INFO]   Tested every major model as it launched
-[INFO]   Building real projects — not just tutorials
-[INFO]   Studying AI ethics, bias & reliability
-[INFO]   Interested in where regulation is heading (EU AI Act)
-[QUERY]  What can AI actually understand — vs just pattern-match?
-[ACTIVE] Prompt engineering: same model, different results — why?
-```
-
-> *"I don't just build AI — I question it."*
-
-> *Building with AI? Nah, just aggressive charity to the machines. 🎁*
-
----
-
-## `> ping goals.sh`
-
-```
-[ ] Land an internship in AI/ML or Computer Vision
-[ ] Build in public — share what I learn as I learn it  
-[ ] Connect with other developers on the same path
-[ ] Grow this into a real portfolio — project by project
-```
-
----
-
 <div align="center">
-
-*Early Adopter · Building in Public*
-
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&color=gradient"/>
-
 </div>
