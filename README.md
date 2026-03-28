@@ -17,7 +17,7 @@
 ║                    [ SYSTEM PROFILE ]                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║  HANDLE  : Professor                                     ║
-║  ROLE    : AI/ML Developer                               ║
+║  ROLE    : AI Developer                               ║
 ║  FOCUS   : Computer Vision · LLMs · Responsible AI       ║
 ║  STACK   : Python · SQL · HTML · CSS · JS                ║
 ║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek  ║
