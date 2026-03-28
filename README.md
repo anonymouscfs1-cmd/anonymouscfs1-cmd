@@ -1,9 +1,7 @@
 <div align="center">
 
-![Anon](https://img.shields.io/badge/Anon-AI%20Developer-purple?style=for-the-badge&logo=appveyor)
+![Professor](https://img.shields.io/badge/Professor-AI%20Developer-purple?style=for-the-badge&logo=appveyor)
 ![Status](https://img.shields.io/badge/Status-Building%20%26%20Learning-9333EA?style=for-the-badge&logo=statuspage&logoColor=white)
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=1000&color=9333EA&background=00000000&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;AI+DEVELOPER+ONLINE;COMPUTER+VISION+%E2%9C%93;PROMPT+ENGINEERING+%E2%9C%93;AUTOMATION+%26+AGENTS+%E2%9C%93;QUESTIONING+THE+MACHINE..." />
 
 </div>
 
@@ -18,7 +16,7 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                    [ SYSTEM PROFILE ]                    ║
 ╠══════════════════════════════════════════════════════════╣
-║  HANDLE  : Anon                                          ║
+║  HANDLE  : Professor                                     ║
 ║  ROLE    : AI/ML Developer                               ║
 ║  FOCUS   : Computer Vision · LLMs · Responsible AI       ║
 ║  STACK   : Python · SQL · HTML · CSS · JS                ║
@@ -60,10 +58,10 @@ I build real projects to learn. I question what I build. I care about where AI i
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ACTIVE%20PROJECTS&fontSize=22&fontColor=ffffff"/>
 </div>
 
-### Flappy — Flappy Drone Project
+### Agrifly — Flappy Drone Project
 > `Python · Depth-Anything V2 · YOLOv12 · RF-DETR · Zapier · Roboflow · Google Colab`
 
-A real-world AI project. The goal: help greenhouse farmers detect pests and diseases early using flapping-wing drones and computer vision.
+A real-world AI project focused on helping greenhouse farmers detect pests and diseases early using flapping-wing drones and computer vision.
 
 My contributions:
 
@@ -146,9 +144,15 @@ A hands-on experiment into how AI systems detect — and misdetect — harmful c
 ![Responsible AI](https://img.shields.io/badge/Responsible%20AI%20%26%20Ethics-blueviolet?style=flat-square)
 
 </div>
-Early Adopter · Building in Public.
+
 ---
 
 <div align="center">
+
+*Early Adopter · Building in Public*
+
+---
+
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&fontSize=70&fontColor=FFFFFF&fontAlign=60&fontAlignY=50&color=gradient"/>
+
 </div>
