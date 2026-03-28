@@ -2,7 +2,6 @@
 
 ![Professor](https://img.shields.io/badge/Professor-AI%20Developer-purple?style=for-the-badge&logo=appveyor)
 
-
 </div>
 
 ---
@@ -14,7 +13,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                       [ PROFILE ]                        ║
+║                    [ SYSTEM PROFILE ]                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║  HANDLE  : Professor                                     ║
 ║  ROLE    : AI/ML Developer                               ║
@@ -22,7 +21,7 @@
 ║  STACK   : Python · SQL · HTML · CSS · JS                ║
 ║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek   ║
 ║  SINCE   : Early ChatGPT adopter — been here from day 1  ║
-║  STATUS  : 🟢 Building. Experimenting. Questioning.     ║
+║  STATUS  : 🟢 Building. Experimenting. Questioning.      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -43,7 +42,9 @@
 I'm an AI developer, but my journey started long before any classroom.  
 I was early to the AI wave — tracking ChatGPT from launch, watching DeepSeek challenge the status quo, testing Grok, Gemini, and Claude as they entered the scene.
 
-I don't just use AI tools. I compare them, stress-test them with different prompts, and study how their responses differ. I like trying new things — building websites in Lovable, making chatbots, running and experimenting with different models locally in Ollama, and exploring how AI behaves in the cloud.
+I don't just use AI tools. I compare them, stress-test them with different prompts, and study how their responses differ. I like trying new things — building websites in Lovable, making chatbots, running models locally in Ollama, and exploring how AI behaves in the cloud.
+
+The gap between a bad AI output and a great one isn't the tool. It's knowing what to ask for. Two people, same model, same cost — the difference is always knowledge and the quality of your instructions. That's what I focus on.
 
 Right now I work mainly with **Claude Sonnet 4.6** — it handles everything I throw at it, from daily tasks to full projects, and it does exactly what I ask.
 
