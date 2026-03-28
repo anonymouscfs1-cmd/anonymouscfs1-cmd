@@ -60,10 +60,10 @@ I build real projects to learn. I question what I build. I care about where AI i
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=ACTIVE%20PROJECTS&fontSize=22&fontColor=ffffff"/>
 </div>
 
-### Agrifly — Flappy Drone Project
+### Flappy — Flappy Drone Project
 > `Python · Depth-Anything V2 · YOLOv12 · RF-DETR · Zapier · Roboflow · Google Colab`
 
-A real-world AI project at Inholland University of Applied Sciences. The goal: help greenhouse farmers detect pests and diseases early using flapping-wing drones and computer vision.
+A real-world AI project. The goal: help greenhouse farmers detect pests and diseases early using flapping-wing drones and computer vision.
 
 My contributions:
 
