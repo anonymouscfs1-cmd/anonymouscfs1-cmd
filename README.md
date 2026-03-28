@@ -146,7 +146,7 @@ A hands-on experiment into how AI systems detect — and misdetect — harmful c
 ![Responsible AI](https://img.shields.io/badge/Responsible%20AI%20%26%20Ethics-blueviolet?style=flat-square)
 
 </div>
-
+Early Adopter · Building in Public.
 ---
 
 <div align="center">
