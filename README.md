@@ -20,9 +20,9 @@
 ║  ROLE    : AI/ML Developer                               ║
 ║  FOCUS   : Computer Vision · LLMs · Responsible AI       ║
 ║  STACK   : Python · SQL · HTML · CSS · JS                ║
-║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek  ║
+║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek   ║
 ║  SINCE   : Early ChatGPT adopter — been here from day 1  ║
-║  STATUS  : 🟢 Building. Experimenting. Questioning.      ║
+║  STATUS  : 🟢 Building. Experimenting. Questioning.     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
