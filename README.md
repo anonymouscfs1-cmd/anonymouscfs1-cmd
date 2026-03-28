@@ -46,6 +46,8 @@ I don't just use AI tools. I compare them, stress-test them with different promp
 
 The gap between a bad AI output and a great one isn't the tool. It's knowing what to ask for. Two people, same model, same cost — the difference is always knowledge and the quality of your instructions. That's what I focus on.
 
+AI is not complicated. Learning how to talk to it is the whole skill.
+
 Right now I work mainly with **Claude Sonnet 4.6** — it handles everything I throw at it, from daily tasks to full projects, and it does exactly what I ask.
 
 I build real projects to learn. I question what I build. I care about where AI is going — not just how to use it.
