@@ -17,7 +17,7 @@
 ║                    [ SYSTEM PROFILE ]                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║  HANDLE  : Professor                                     ║
-║  ROLE    : AI Developer                               ║
+║  ROLE    : AI/ML Developer                               ║
 ║  FOCUS   : Computer Vision · LLMs · Responsible AI       ║
 ║  STACK   : Python · SQL · HTML · CSS · JS                ║
 ║  TOOLS   : Claude · ChatGPT · Grok · Gemini · DeepSeek  ║
@@ -43,8 +43,9 @@
 I'm an AI developer, but my journey started long before any classroom.  
 I was early to the AI wave — tracking ChatGPT from launch, watching DeepSeek challenge the status quo, testing Grok, Gemini, and Claude as they entered the scene.
 
-I don't just use AI tools. I compare them, stress-test them with different prompts, and study how their responses differ.  
-Right now I work mainly with **Claude** — because it does exactly what I ask.
+I don't just use AI tools. I compare them, stress-test them with different prompts, and study how their responses differ. I like trying new things — building websites in Lovable, making chatbots, running and experimenting with different models locally in Ollama, and exploring how AI behaves in the cloud.
+
+Right now I work mainly with **Claude Sonnet 4.6** — it handles everything I throw at it, from daily tasks to full projects, and it does exactly what I ask.
 
 I build real projects to learn. I question what I build. I care about where AI is going — not just how to use it.
 
@@ -122,6 +123,8 @@ A hands-on experiment into how AI systems detect — and misdetect — harmful c
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-9333EA?style=flat-square&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-E11D48?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Landbot](https://img.shields.io/badge/Landbot-00B09B?style=flat-square&logoColor=white)
