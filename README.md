@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Professor](https://img.shields.io/badge/Professor-AI%20Developer-purple?style=for-the-badge&logo=appveyor)
-![Status](https://img.shields.io/badge/Status-Building%20%26%20Learning-9333EA?style=for-the-badge&logo=statuspage&logoColor=white)
+
 
 </div>
 
