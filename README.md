@@ -2,6 +2,7 @@
 
 ![Professor](https://img.shields.io/badge/Professor-AI%20Developer-purple?style=for-the-badge&logo=appveyor)
 
+
 </div>
 
 ---
@@ -120,14 +121,17 @@ A hands-on experiment into how AI systems detect — and misdetect — harmful c
 <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" /><br/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,pytorch" /><br/>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 ![Roboflow](https://img.shields.io/badge/Roboflow-9333EA?style=flat-square&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logoColor=white)
 ![Lovable](https://img.shields.io/badge/Lovable-E11D48?style=flat-square&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![Manus AI](https://img.shields.io/badge/Manus%20AI-6366F1?style=flat-square&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
 ![Codepen](https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white)
 ![Landbot](https://img.shields.io/badge/Landbot-00B09B?style=flat-square&logoColor=white)
